@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<movies>
+	<flick genre="action">
+		<title>Matrix</title>
+		<year>1999</year>
+		<director>Wachowski</director>
+	</flick>
+	<flick genre="action">
+		<title>Star Wars</title>
+		<year>1977</year>
+		<director>Lucas</director>
+	</flick>
+	<flick genre="suspense">
+		<title>Vanilla Sky</title>
+		<year>2003</year>
+		<director>Cruise</director>
+	</flick>
+	<flick genre="hate">
+		<title>Fight Club</title>
+		<year>2001</year>
+		<director>Caleb</director>
+	</flick>
+</movies>	
